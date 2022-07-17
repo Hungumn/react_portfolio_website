@@ -40,6 +40,14 @@ const data =[
     github:'https://github.com/Hungumn/react_diceGame_gh',
     demo:'https://hungumn.github.io/react_diceGame_gh/',
   },
+  {
+    id:5,
+    image:IMG5,
+    title:'REACTJS  PORTFOLIO WEBSITE',
+    content:'Create a Portfolio Website',
+    github:'https://github.com/Hungumn/react_portfolio_website',
+    demo:'https://hungumn.github.io/react_portfolio_website/',
+  },
 
 ]
 
